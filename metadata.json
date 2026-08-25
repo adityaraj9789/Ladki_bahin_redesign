@@ -1,0 +1,6 @@
+{
+  "name": "Majhi Ladki Bahin Yojana Portal",
+  "description": "Government of Maharashtra Majhi Ladki Bahin direct cash-transfer scheme portal for eligibility check, online DBT application, status tracking, and support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
